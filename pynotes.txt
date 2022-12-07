@@ -5,4 +5,4 @@ Inequality Operators:
 Language methods:
 	input(), print(), len()
 Logic concepts:
-	and, or, true, false, !()
+	true, false, and, or, not
